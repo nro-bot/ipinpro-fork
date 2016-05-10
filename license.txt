@@ -1,0 +1,33 @@
+Terms and Conditions
+
+This is a legal agreement between you and Ericulous.com covering your use of iPin Pro Theme. By purchasing the theme you are consenting to be bound by this agreement. Do not purchase if you do not agree to all of the terms of this agreement.
+
+1. Licensing & Usage
+One theme license for one domain only, without any resell or distribution rights.
+
+2. Technical Support & Updates
+Product technical support and updates will only be provided to those who have purchased the theme with a valid license from Ericulous.com. The support covers assistance of:
+ - Theme installation, update and troubleshooting
+ - Fixing bugs
+
+“Assistance” means pointing you in directions, without uploading, editing or installing your files.
+
+The support does not cover assistance of:
+- Customization on PHP, HTML, Javascript, CSS, or any other source codes
+- 3rd party plugin/module installation or troubleshooting
+- Any kind of computer (PC or Server) hardware/software related issues
+
+3. Refund Policy
+Due to intangible nature of digital products, all sales are final and no refunds will be given.
+
+4. Product, Service, & Price Changes
+Ericulous.com reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, a product (or any part thereof) with or without notice. Prices are subject to change without prior notice.
+
+5. Ownership
+You may not claim intellectual or exclusive ownership rights to the theme. The theme is property of Ericulous.com. It is provided “as is” without warranty of any kind, expressed or implied. Ericulous.com shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use the theme.
+
+6. Warranty
+Ericulous.com does not warranty or guarantee the theme in any manner. Ericulous.com cannot guarantee they will function with all 3rd party components, plugins or web browsers. Browser compatibility should be tested against the demonstration theme on the demo server. Please ensure that the browsers you use will work with the theme as Ericulous.com cannot guarantee that the theme will work with all browser combinations.
+
+7. Terms of Use Changes
+Ericulous.com reserves the right to change or modify current Terms and Conditions with no prior notice.
